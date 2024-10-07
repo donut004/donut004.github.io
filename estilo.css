@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+.carousel-item img {
+    max-width: 900px; /* Ajusta el tamaño máximo que desees */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin: auto; /* Centra la imagen */
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black; /* Cambia el color de las flechas a negro */
+}
